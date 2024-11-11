@@ -1,0 +1,2 @@
+This Java-based Flappy Bird game includes a bird that the player controls, as well as pipes that appear at random intervals. The player's objective is to navigate the bird through the gaps in the pipes without hitting them.
+The game detects collisions between the bird and pipes, and it includes a gravity effect for more realistic bird movement. The score increases as the player successfully navigates through the pipes. When the game is over, the player can restart by pressing the space bar, which resets the game conditions
